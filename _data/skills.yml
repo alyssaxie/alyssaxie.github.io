@@ -1,21 +1,21 @@
 # skills section data
-- name: Python
+- name: Adobe Photoshop
   percentage: 85
 
-- name: HTML/CSS
-  percentage: 65
+- name: Sketch
+  percentage: 85
 
-- name: Linux/Shell
+- name: Adobe Illustrator
   percentage: 75
 
-- name: jQuery
+- name: Axure
   percentage: 85
 
-- name: AngularJS
-  percentage: 80
+- name: Zeplin
+  percentage: 85
 
-- name: Ionic
+- name: HTML
   percentage: 70
 
-- name: Vuejs
+- name: CSS
   percentage: 65
