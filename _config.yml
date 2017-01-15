@@ -29,6 +29,8 @@ languages:
 # blog img path
 img_path: 'http://www.alyssaxie.com/static/img/blog'
 
+blog_img_path: '\static/img/blog'
+
 # comment
 changyan:
   # appid: cysfY7ULn
