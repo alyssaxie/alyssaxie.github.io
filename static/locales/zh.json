@@ -8,7 +8,7 @@
     "skills": "技能",
     "projects": "项目",
     "career": "职业",
-    "blog": "博客",
+    "portfolio": "作品",
     "link": "友情链接"
   },
   "about_me":{
@@ -40,8 +40,8 @@
     "college_date": "2013年7月",
     "college_job": "学生"
   },
-  "blog":{
-    "my_blog": "我的博客"
+  "portfolio":{
+    "my_portfolio": "我的作品"
   },
   "link":{
     "link": "友情链接",
